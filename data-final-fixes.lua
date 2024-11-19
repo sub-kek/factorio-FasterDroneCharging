@@ -15,3 +15,9 @@ data.raw.roboport.roboport.logistics_radius = settings.startup["FasterRoboportCh
 
 -- game default: 55
 data.raw.roboport.roboport.construction_radius = settings.startup["FasterRoboportCharging-roboport-construction-radius"].value
+
+-- game default: 3MJ
+data.raw["construction-robot"]["construction-robot"].max_energy = settings.startup["FasterRoboportCharging-construction-robot-max-energy"].value
+
+-- game default: 3MJ
+data.raw["logistic-robot"]["logistic-robot"].max_energy = settings.startup["FasterRoboportCharging-logistic-robot-max-energy"].value
