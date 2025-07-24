@@ -1,7 +1,7 @@
 {
-  "name": "FasterRoboportCharging",
+  "name": "FasterRoboportChargingUpdated",
   "version": "0.5",
-  "title": "Faster Roboport Charging",
+  "title": "Faster Roboport Charging Updated",
   "description": "Configurable roboport charging speed, idle usage, logistic and construction radius, and drone battery capacity. Default roboport charging boosted to 40MW. All settings adjustable via mod options (restart required).",
   "author": "subkek (forked from Anthrazz)",
   "homepage": "https://github.com/sub-kek/factorio-FasterDroneCharging",
