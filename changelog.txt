@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+version 0.5
+Date: 2025-07-24
+  Changes:
+    - Update to 2.0
+    - remove German locale
+    - add Russian locale
+    - add drone max energy configuration
+
 Version: 0.4.1
 Date: 2021-04-17
   Changes:
